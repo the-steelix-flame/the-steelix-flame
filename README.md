@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @the-steelix-flame
 - 👀 I’m interested in coding 💀
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on studying 
 - 📫 How to reach me - gmail: akash3571kumar@gmail.com
 
 <!---
