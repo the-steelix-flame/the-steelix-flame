@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @the-steelix-flame
 - 👀 I’m interested in coding 💀
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning DSA in JAVA
 - 📫 How to reach me - gmail: akash3571kumar@gmail.com
 
 <!---
