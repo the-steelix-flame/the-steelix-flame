@@ -2,10 +2,6 @@
 
 **Machine Learning Engineer | Algorithmic Trader | AI Enthusiast**
 
-# [Your Name]
-
-**Machine Learning Engineer | Algorithmic Trader | AI Enthusiast**
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ak-a-sh/)  
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Prestigious-Pea36/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](akash3571kumar@gmail.com)
