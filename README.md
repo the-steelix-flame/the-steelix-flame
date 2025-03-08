@@ -6,30 +6,13 @@
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Prestigious-Pea36/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](akash3571kumar@gmail.com)
 
-## 👨‍💻 About Me
-```python
-class [YourName]:
-    def __init__(self):
-        self.name = "[Your Name]"
-        self.education = [
-            "BTech CSE @ Heritage Institute of Technology",
-            "BS in ML Foundations @ IIT Madras"
-        ]
-        self.interests = [
-            "Algorithmic Trading",
-            "Machine Learning",
-            "Deep Learning",
-            "Quantitative Finance"
-        ]
-        self.research_focus = "Developing AI-driven financial models and intelligent systems"
-        self.work_philosophy = "Bridging AI & finance to unlo
 
 
 ## 👨‍💻 About Me
 ```python
-class [YourName]:
+class [Akash Kumar]:
     def __init__(self):
-        self.name = "[Your Name]"
+        self.name = "[Akash Kumar]"
         self.education = [
             "BTech CSE @ Heritage Institute of Technology",
             "BS in Data Science @ IIT Madras"
