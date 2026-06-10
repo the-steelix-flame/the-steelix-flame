@@ -23,12 +23,11 @@
 
 - 🎓 Currently pursuing **BTech CSE @ Heritage Institute of Technology** & **BS in Data Science @ IIT Madras**
 - 🤖 Passionate about **Machine Learning, Deep Learning, Artificial Intelligence & Computer Vision**
-- 🔭 Currently building **TrackinTrade** (AI trading journal), a **Face Recognition Attendance System (IIT Indore)**, **LookAlike** & a **Bangalore House Price Checker**
 - 🚀 Future research focus: **AI-driven custom models for space simulations**
-- 💡 Work philosophy: **Bridging AI with the modern world**
+- 💡 Work philosophy: **Bridging AI with the finance world**
 - 📫 Reach me at **[akash3571kumar@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=akash3571kumar@gmail.com)**
 - 🌐 Check out my **[Portfolio](https://akash-portfolio-blush.vercel.app/)**
-- ⚡ Fun fact: **Daily DSA grind in Java — solving problems is my warm-up 🔥**
+- ⚡ Fun fact: **DSA and chess are my warmups🔥**
 
 <br clear="right"/>
 
